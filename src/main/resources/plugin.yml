@@ -1,0 +1,6 @@
+main: tk.blugon0921.critical.Main
+version: 1.0
+name: Critical
+api-version: 1.16
+description: Critical Plugin
+author: Blugon0921
